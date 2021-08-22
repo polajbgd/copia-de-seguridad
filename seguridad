@@ -1,0 +1,355 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>Proyecto 2021_Club_6_4</title>
+        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        <!-- Font Awesome icons (free version)-->
+        <script src="https://use.fontawesome.com/releases/v5.15.3/js/all.js" crossorigin="anonymous"></script>
+        <!-- Google fonts-->
+        <link href="https://fonts.googleapis.com/css?family=Catamaran:100,200,300,400,500,600,700,800,900" rel="stylesheet" />
+        <link href="https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i" rel="stylesheet" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+    </head>
+    <body id="page-top">
+        <!-- Navigation-->
+        <nav class="navbar navbar-expand-lg navbar-dark navbar-custom fixed-top">
+            <div class="container px-5">
+                <a class="navbar-brand" href="#page-top">Equipo 6_4</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+                <div class="collapse navbar-collapse" id="navbarResponsive">
+                    <ul class="navbar-nav ms-auto">
+                        <li class="nav-item"><a class="nav-link" href="#!">ODS 3: Salud y Bienestar</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <!-- Header-->
+        <header class="masthead text-center text-white">
+            <div class="masthead-content">
+                <div class="container px-5">
+                    <h1 class="masthead-heading mb-0">Reposicionamiento de fármacos</h1>
+                    <h2 class="masthead-subheading mb-0">Club de Ciencias MX</h2>
+                    <a class="btn btn-primary btn-xl rounded-pill mt-5" href="#scroll">Bienvenido</a>
+                    <img src="Logo_CdeCMx.png" width=300>
+                </div>
+            </div>
+            <div class="bg-circle-1 bg-circle"></div>
+            <div class="bg-circle-2 bg-circle"></div>
+            <div class="bg-circle-3 bg-circle"></div>
+            <div class="bg-circle-4 bg-circle"></div>
+        </header>
+        &nbsp;
+        <!-- Services-->
+        <section class="page-section" id="services">
+            <div class="container">
+                <div class="text-center">
+                    <h2 class="section-heading text-uppercase">Introducción</h2>
+                    <h3 class="section-subheading text-muted">¿Por qué es importante el reposicionamiento de fármacos para los avances en los tratamientos de diferentes enfermedades?</h3>
+                </div>
+                <div class="row text-center">
+                    <div class="col-md-6">
+                        <span class="fa-stack fa-4x">
+                            <i class="fas fa-circle fa-stack-2x text-primary"></i>
+                            <i class="fas fa-laptop fa-stack-1x fa-inverse"></i>
+                        </span>
+                        <h4 class="my-3">Objetivo 1</h4>
+                        <p class="text-muted"
+                        <ul>
+                        <il>El reposicionamiento de fármacos como una estrategia en la búsqueda de nuevos usos en medicamentos para diferentes enfermedades y el cambio de sus características físico-químicas para esto.</il>
+                        <ul>
+                        </p>
+                    </div>
+                    <div class="col-md-6">
+                        <span class="fa-stack fa-4x">
+                            <i class="fas fa-circle fa-stack-2x text-primary"></i>
+                            <i class="fas fa-laptop fa-stack-1x fa-inverse"></i>
+                        </span>
+                        <h4 class="my-3">Objetivo 2</h4>
+                        <p class="text-muted">
+                        <ul>
+                        <il>Permite ahorrar inmensas cantidades de recursos económicos en la búsqueda de nuevos tratamientos que mejoren la interacción con la molécula blanco, además de predecir posibles efectos.</il>
+                        <ul>
+                        </p>
+                    </div>
+                    <div class="col-md-6">
+                        <span class="fa-stack fa-4x">
+                            <i class="fas fa-circle fa-stack-2x text-primary"></i>
+                            <i class="fas fa-laptop fa-stack-1x fa-inverse"></i>
+                        </span>
+                        <h4 class="my-3">Objetivo 3</h4>
+                        <p class="text-muted">
+                        <ul>
+                        <il>La búsqueda de nuevos fármacos en el mundo de la medicina, así como su cooperación traslacional ha sido un reto para el siglo XXI, gracias a los avances en la IA podríamos lograr una cobertura global de salud, facilitar medicamentos y vacunas seguras eficaces para todos y promover la búsqueda de nuevos tratamientos.</il>
+                        <ul>
+                        </p>
+                    </div>
+                    <div class="col-md-6">
+                        <span class="fa-stack fa-4x">
+                            <i class="fas fa-circle fa-stack-2x text-primary"></i>
+                            <i class="fas fa-laptop fa-stack-1x fa-inverse"></i>
+                        </span>
+                        <h4 class="my-3">Objetivo 4</h4>
+                        <p class="text-muted">
+                        <ul>
+                        <il>Gracias a la IA podemos disminuir los tiempos de investigación y obtener diversas variantes de una molécula, así como considerar las posibles interacciones con diferentes blancos e incluso saber qué modificaciones necesitan las sustancias activas sin la intervención de una experimentación biológica temprana que resulte costosa.</il>
+                        <ul>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Services-->
+        <section class="page-section" id="services">
+            <div class="container">
+                <div class="text-center">
+                    <h2 class="section-heading text-uppercase">.</h2>
+                    <h3 class="section-subheading text-muted">¿Cómo definimos el objetivo de nuestra investigación?</h3>
+                </div>
+                <div class="row text-center">
+                    <div class="col-md-4">
+                        <span class="fa-stack fa-4x">
+                            <i class="fas fa-circle fa-stack-2x text-primary"></i>
+                            <i class="fas fa-lock fa-stack-1x fa-inverse"></i>
+                        </span>
+                        <h4 class="my-3">Paso 1</h4>
+                        <p class="text-muted">Definimos una problemática en el campo de la creación o modificación de fármacos y como ha interactuado la IA para modificar esto.</p>
+                    </div>
+                    <div class="col-md-4">
+                        <span class="fa-stack fa-4x">
+                            <i class="fas fa-circle fa-stack-2x text-primary"></i>
+                            <i class="fas fa-lock fa-stack-1x fa-inverse"></i>
+                        </span>
+                        <h4 class="my-3">Paso 2</h4>
+                        <p class="text-muted">Buscamos palabras claves en BVS y realizamos una búsqueda en motores de búsqueda de artículos sobre esta problemática.</p>
+                    </div>
+                    <div class="col-md-4">
+                        <span class="fa-stack fa-4x">
+                            <i class="fas fa-circle fa-stack-2x text-primary"></i>
+                            <i class="fas fa-lock fa-stack-1x fa-inverse"></i>
+                        </span>
+                        <h4 class="my-3">Paso 3</h4>
+                        <p class="text-muted">Encontramos el artículo "Avances en el diseñño de fármacos asistido por computadora" y "Drug repurposing: progress, challenges and recommendations" y gracias a lo visto en clase decidimos profundizar en como la IA junto con la medicina interactúan en la búsqueda de reposicionamiento de fármacos.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Content section 1-->
+        <section id="scroll">
+            <div class="container px-5">
+                <div class="row gx-5 align-items-center">
+                    <div class="col-lg-6 order-lg-2">
+                        <div class="p-5"><img class="img-fluid rounded-circle" src="assets/img/01.jpg" alt= "..."/></div>
+                    </div>
+                    <div class="col-lg-6 order-lg-1">
+                        <div class="p-5">
+                            <h2 class="display-4">Entonces ¿cómo sucede el reposicionamiento de fármacos?</h2>
+                            <p>
+                            <ul>
+                            <li>En la siguiente imágen podemos observar como en análisis de diferentes datos a gran escala pueden ayudarnos a generar hipótesis de nuevos reposicionamiento de fármacos.</li>
+                            <li>Imágen 1 tomada de Pushpakom S, Iorio F, Eyers PA, Escott KJ, Hopper S, Wells A, et al. Drug repurposing: progress, challenges and recommendations. Nat Rev Drug Discov. enero de 2019;18(1):41-58.</li>
+                            <ul>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <img src="assets/img/02.jpg" width="800"/>
+        <!-- Content section 2-->
+        <section>
+            <div class="container px-5">
+                <div class="row gx-5 align-items-center">
+                    <div class="col-lg-6">
+                        <div class="p-5"><img class="img-fluid rounded-circle" src="assets/img/08.jpg" alt="..." /></div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="p-5">
+                            <h2 class="display-4">En el desarrollo de fármacos existen dos caminos por los cuales se pueden obtener sustancias activas para nuevos medicamentos, que son:</h2>
+                            <p>
+                            <ul>
+                            <li>Cuando se sospecha de una posible sustancia activa en algún remedio popular que se ha utilizado por mucho tiempo; a partir de esa hipótesis, se analiza cuál podría ser la molécula que alivie el malestar y se encuentre la solución.</li>
+                            <li>Mediante el análisis conjunto de algún padecimiento que represente un grave problema de salud y encontrar una solución, como lo fue con la vacuna contra SARS- Cov 2. </li>
+                            <ul>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Content section 3-->
+        <section>
+            <div class="container px-5">
+                <div class="row gx-5 align-items-center">
+                    <div class="col-lg-6 order-lg-2">
+                        <div class="p-5"><img class="img-fluid rounded-circle" src="assets/img/09.jpg" alt="..." /></div>
+                    </div>
+                    <div class="col-lg-6 order-lg-1">
+                        <div class="p-5">
+                            <h2 class="display-4"></h2>
+                            <p>Se puede evaluar mediante programación si hay similitudes en la cadena de aminoácidos de otros organismos patógenos, notar si existen medicamentos que alivien los síntomas contra los organismos más parecidos al de nuestro interés o incluso si existe alguna vacuna. Por las similitudes entre estos, se comparar con diversas bases de datos que nos planteen soluciones y encontrar a los medicamentos que pueden ser candidatos a experimentación.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Content section 4-->
+        <section>
+            <div class="container px-5">
+                <div class="row gx-5 align-items-center">
+                    <div class="col-lg-6">
+                        <div class="p-5"><img class="img-fluid rounded-circle" src="assets/img/010.jpg" alt="..." /></div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="p-5">
+                            <h2 class="display-4"></h2>
+                            <p>Algo similar ocurre con la reformulación farmacéutica, el proceso de investigación para sacar un nuevo fármaco al mercado involucra grandes cantidades de tiempo, dinero y personal. La existencia de nuevas enfermedades sin cura aparente y el gran aumento de la población son señales de que debemos agilizar nuestro sistema de generación de medicamentos. La reformulación farmacéutica plantea la reutilización de medicamentos con un fin aparente, que tienen el potencial de ser útiles para el tratamiento de otras enfermedades. Así, los costos de producción se reducen gradualmente y ya se conocen los efectos secundarios.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Content section 5-->
+        <section id="scroll">
+            <div class="container px-5">
+                <div class="row gx-5 align-items-center">
+                    <div class="col-lg-6 order-lg-2">
+                        <div class="p-5"><img class="img-fluid rounded-circle" src="assets/img/012.jpg" alt= "..."/></div>
+                    </div>
+                    <div class="col-lg-6 order-lg-1">
+                        <div class="p-5">
+                            <h2 class="display-4"></h2>
+                            <p>Actualmente, la computación nos ofrece la ventaja de hacer un compendio de las diferentes proteínas que se han descubierto mediante la investigación, como la base de datos de RCSB Protein Data Bank desde hace 50 años. Nos provee herramientas para conocer las características moleculares. A continuación, se encuentra la imagen de la proteína principal del VIH tomada de la base de datos.(Ver Ilustración 1)</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <img src="assets/img/04.jpg" width="800"/>
+        <!-- Content section 6-->
+        <section>
+            <div class="container px-5">
+                <div class="row gx-5 align-items-center">
+                    <div class="col-lg-6">
+                        <div class="p-5"><img class="img-fluid rounded-circle" src="assets/img/013.jpg" alt="..." /></div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="p-5">
+                            <h2 class="display-4"></h2>
+                            <p>Además de algunas modificaciones visibles, como observar sólo los ligandos, los polímeros, moléculas de agua o iones. (Ver Ilustración 2)</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <img src="assets/img/05.jpg" width="800"/>
+        <!-- About-->
+        <section class="page-section" id="about">
+            <div class="container">
+                <div class="text-center">
+                    <h2 class="section-heading text-uppercase">PyMol</h2>
+                    <h3 class="section-subheading text-muted">Herramienta</h3>
+                </div>
+                <ul class="timeline">
+                    <li>
+                        <div class="timeline-panel">
+                            <div class="timeline-heading">
+                                <h4></h4>
+                                <h4 class="subheading">Por otra parte...</h4>
+                            </div>
+                            <div class="timeline-body"><p class="text-muted">Existen herramientas que nos permiten tener una mejor visualización sobre los aspectos más importantes de las proteínas, como el programa PyMol, que fue creado a base de programación en Python, nos ofrece trasladar estas estructuras de la base de datos, ver su secuencia de aminoácidos, modificar los colores, aislar sus ligandos y analizar la interacción que podrían llegar a tener con otras moléculas, como es el caso de la proteína base para la vacuna de ARNm eOD-GT8 60mer que se encuentra en la primera fase experimental actualmente.(Ver Ilustración 3)</p></div>
+                        </div>
+                        <img src="assets/img/06.jpg" width="800"/>
+                    </li>
+                    <li class="timeline-inverted">
+                        <div class="timeline-panel">
+                            <div class="timeline-heading">
+                                <h4></h4>
+                                <h4 class="subheading"></h4>
+                            </div>
+                            <div class="timeline-body"><p class="text-muted">Esta es la importancia de manejar modelos de las moléculas en la computadora, nos ayuda a analizarlos más rápidamente, sin gastos innecesarios que pueden ser peligrosos para las personas involucradas y para el capital de la industria farmacéutica, que no estiman más de 2% de sus ingresos al área de investigación.</p></div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="timeline-panel">
+                            <div class="timeline-heading">
+                                <h4></h4>
+                                <h4 class="subheading"></h4>
+                            </div>
+                            <div class="timeline-body"><p class="text-muted">Y hemos visto a lo largo de esta contingencia sanitaria el precio que tiene no invertir en la innovación en todos los ámbitos, pero lo podemos palpar más en la producción de vacunas o en este caso, de medicamentos que puedan mitigar rápidamente los efectos derivados por el Covid-19.</p></div>
+                        </div>
+                    </li>
+                    <li class="timeline-inverted">
+                        <div class="timeline-panel">
+                            <div class="timeline-heading">
+                                <h4></h4>
+                                <h4 class="subheading"></h4>
+                            </div>
+                            <div class="timeline-body"><p class="text-muted">Continuando con la estructura del VIH, la zidovudina fue uno de los primeros fármacos que vio los efectos de la reformulación, ya que, al principio, se pensó para el tratamiento del cáncer, pero se notaron efectos terapéuticos contra el VIH en el año de 1987.(Ver Ilustración 4)</p></div>
+                        </div>
+                        <img src="assets/img/07.jpg" width="800"/>
+                    </li>
+                    <li class="timeline-inverted">
+                        <div class="timeline-image">
+                            <h4> 
+                            <ul>
+                            <li>Ilustración 1_Estructura cristalina del dominio del núcleo catalítico de la integrasa del VIH-1 6L0C.</li>
+                            <li>Ilustración 2_ Ligandos de arsénico y el ion sulfato correspondientes a la estructura después de ocultar el polímero. </li>
+                            <li>Ilustración 3_Visualización de la estructura principal del VIH y la estructura principal de la posible vacuna preventiva contra el VIH en el programa de PyMol.</li>
+                            <li>Ilustración 4_Estructura de la zidovudina visualizada con el programa de Chemdraw.</li>
+                            <ul>
+                            </h4>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </section>
+        <!-- Team-->
+        <section class="page-section bg-light" id="team">
+            <div class="container">
+                <div class="text-center">
+                    <h2 class="section-heading text-uppercase">Miembros del equipo</h2>
+                    <h3 class="section-subheading text-muted">.</h3>
+                </div>
+                <div class="row">
+                    <div class="col-lg-4">
+                        <div class="team-member">
+                            <img class="img-fluid rounded-circle" src="assets/img/015.jpg" alt="..." /></div>
+                            <h4>María Fernanda Castillo Vaca</h4>
+                            <p class="text-muted">Soy estudiante de 3er año de la carrera de Medico Cirujano en la UASLP; desde que entré a la facultad me ha surgido la curiosidad en las materias básicas que he cursado. Estoy totalmente maravillada de lo que he aprendido y totalmente agradecida por la oportunidad.</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="team-member">
+                            <img class="img-fluid rounded-circle" src="assets/img/016.jpg" alt="..." /></div>
+                            <h4>Andrea López</h4>
+                            <p class="text-muted">Me encanto formar parte de esta edición, aprendí demasiado de los instructores y me quedo con una inolvidable experiencia. Soy muy afortunada de estar en el club y me agrada mucho que existan este tipo de programas que fomentan la ciencia.</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="team-member">
+                            <img class="img-fluid rounded-circle" src="assets/img/017.jpg" alt="..." /></div>
+                            <h4>Jezabel Barrientos Nava</h4>
+                            <p class="text-muted">Estudiante de 5to semestre de la carrera de Químico Farmacéutico Biólogo en la Universidad Veracruzana. Soy una entusiasta de la ciencia y me fascina aprender formas de enriquecer mi aprendizaje en la carrera. Estoy profundamente agradecida con la oportunidad que se me ha brindado y la felicidad que me produjo ser oyente de las clases impartidas en el club 6.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-8 mx-auto text-center"><p class="large text-muted">Agradecemos demasiado a nuestros instructores, ya que aprendimos mucho de ellos y nos presentaron su tiempo y atención para solucionar nuestras preguntas.</p></div>
+                </div>
+            </div>
+        </section>
+        <!-- Footer-->
+        <footer class="py-5 bg-black">
+            <div class="container px-5"><p class="m-0 text-center text-white small">Copyright &copy; Your Website 2021</p></div>
+        </footer>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+    </body>
+</html>
